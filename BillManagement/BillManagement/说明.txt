@@ -1,0 +1,5 @@
+﻿一点说明：
+1.写一个月度报告类，名字为MonthlyReport
+其中有getTotalincome()(总收入）,getTotalextend()（总支出）,ShowDetails()(显示细节）,生成月度报表CreateReport()等方法。
+2.写一个月度报告表，名字为MonthlyReportGUI,控件尽量简单，调用月度报告类生成月度报告
+3.对数据库操作的账单管理类名字为BillDBservice
